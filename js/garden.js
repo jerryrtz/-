@@ -1,4 +1,4 @@
-function Vector(x, y) {  // 矢量
+function Vector(x, y) {  // 
 	this.x = x;
 	this.y = y;
 };
